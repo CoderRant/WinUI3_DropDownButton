@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "WinUI3_DropDownButton (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "WinUI3_DropDownButton (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
